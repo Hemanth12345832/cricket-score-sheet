@@ -1,3 +1,4 @@
+#include<stdio.h>
 #include"declaration.h"
 #include"welcome.h"
 #include"menu.h"
