@@ -1,5 +1,11 @@
+
 '''hello i am hemanth of bca f section'''
 void welcome()
+
+'''hello world python '''
+  #include stdio.h
+  void welcome()
+
 {
                 system("color f1");
                 int i,y;
